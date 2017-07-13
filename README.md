@@ -15,9 +15,7 @@ for(let i = 0; i < 10; i++) {
 
 // concurrent
 
-const users = [];
-
-pForMap(
+const users = await pForMap(
 	0,
 	i => i < 10,
 	i => ++i,
