@@ -1,0 +1,19 @@
+{
+  "name": "p-for-map",
+  "version": "0.0.1",
+  "description": "Run through a for loop concurrently with Promises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montyanderson/p-for-map.git"
+  },
+  "author": "Monty Anderson <monty.linux@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/montyanderson/p-for-map/issues"
+  },
+  "homepage": "https://github.com/montyanderson/p-for-map#readme"
+}
